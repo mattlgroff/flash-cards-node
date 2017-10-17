@@ -1,0 +1,22 @@
+{
+  "name": "flash-cards-node",
+  "version": "1.0.0",
+  "description": "Homework assignment: flash cards in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattlgroff/flash-cards-node.git"
+  },
+  "author": "Matt Groff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattlgroff/flash-cards-node/issues"
+  },
+  "homepage": "https://github.com/mattlgroff/flash-cards-node#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
