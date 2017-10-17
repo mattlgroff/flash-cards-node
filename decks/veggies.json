@@ -4,6 +4,10 @@
     {
       "question": "Are veggies healthy and good for you?",
       "answer": "yes"
+    },
+    {
+      "question": "What is the original veggie of a Pickle?",
+      "answer": "cucumber"
     }
   ]
 }
