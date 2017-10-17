@@ -1,0 +1,13 @@
+{
+  "name": "Fruits",
+  "cards": [
+    {
+      "question": "What color is a banana?",
+      "answer": "yellow"
+    },
+    {
+      "question": "What color is an orange?",
+      "answer": "orange"
+    }
+  ]
+}

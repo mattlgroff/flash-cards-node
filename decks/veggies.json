@@ -1,0 +1,9 @@
+{
+  "name": "Veggies",
+  "cards": [
+    {
+      "question": "Are veggies healthy and good for you?",
+      "answer": "yes"
+    }
+  ]
+}

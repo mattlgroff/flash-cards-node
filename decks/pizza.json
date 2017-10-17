@@ -1,0 +1,9 @@
+{
+  "name": "Pizza",
+  "cards": [
+    {
+      "question": "What is the worst pizza topping?",
+      "answer": "pineapple"
+    }
+  ]
+}
